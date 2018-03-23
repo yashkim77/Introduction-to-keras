@@ -39,5 +39,5 @@ likely Python 2.7 would be also fine, but who knows? :P
 
 * pyyaml
 * hdf5 and h5py (required if you use model saving/loading functions in keras)
-*NVIDIA cuDNN if you have NVIDIA GPUs on your machines. https://developer.nvidia.com/rdp/cudnn-download
+* NVIDIA cuDNN if you have NVIDIA GPUs on your machines. https://developer.nvidia.com/rdp/cudnn-download
 The easiest way to get (most) these is to use an all-in-one installer such as Anaconda from Continuum. These are available for multiple architectures.
