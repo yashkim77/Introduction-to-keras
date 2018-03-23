@@ -15,7 +15,11 @@
    
 ### 4.Applications
    * __Transfer learning/fine tuning__
-   
+
+
+## Clone Repository
+* git clone https://github.com/yashkim24/Introduction-to-keras.git
+
 # Requirements
 This tutorial requires the following packages:
 
